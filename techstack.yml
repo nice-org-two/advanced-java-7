@@ -1,7 +1,7 @@
 repo_name: nice-org-two/advanced-java-7
-report_id: 2f6aa000e6c5bb829af5d355272c3c76
+report_id: a2428a202c00d245243cd1d575404468
 repo_type: Public
-timestamp: '2023-11-08T20:17:43+00:00'
+timestamp: '2023-11-10T16:28:04+00:00'
 requested_by: TheBestFlyingPig
 provider: github
 branch: main
@@ -45,6 +45,8 @@ tools:
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
   detection_source: ".github/workflows/sync.yml"
+  last_updated_by: yanglbme
+  last_updated_on: 2022-06-15 03:19:45.000000000 Z
 - name: Istio
   description: Open platform to connect, manage, and secure microservices, by Google,
     IBM, and Lyft
@@ -56,9 +58,13 @@ tools:
   sub_category: Microservices Tools
   image_url: https://img.stackshare.io/service/7028/AGpa5VZV.jpg
   detection_source: ".github/workflows/rebase.yml"
+  last_updated_by: Yang Libin
+  last_updated_on: 2020-12-27 03:45:13.000000000 Z
 - name: NPM Trends
   website_url: https://www.npmtrends.com/
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/12294/empty-logo-square.png
   detection_source: package.json
+  last_updated_by: yanglbme
+  last_updated_on: 2020-08-30 07:21:27.000000000 Z

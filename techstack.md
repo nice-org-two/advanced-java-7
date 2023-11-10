@@ -26,8 +26,8 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [nice-org-two/advanced-java-7](https://github.com/nice-org-two/advanced-java-7)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|6<br/>Tools used|36<br/>Contributors|11/08/23 <br/>Report generated|11/04/22<br/>Last commit date|
-|------|------|------|------|
+|6<br/>Tools used|11/10/23 <br/>Report generated|
+|------|------|
 </div>
 
 ## <img src='https://img.stackshare.io/languages.svg'/> Languages (2)
